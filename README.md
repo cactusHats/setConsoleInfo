@@ -18,7 +18,7 @@ setConsoleSixpack()の第2,3引数で分割粒度を変更できます．
 
 # 実行結果
 sample.cppを実行した結果を示します．  
-setConsoleSixpack(0)により，コンソール画面が6当分された内の左上に表示されました．  
+setConsoleSixpack(0)により，コンソール画面が6等分された内の左上に表示されました．  
 
 <img src="https://github.com/TMU-Wada-Lab/setConsoleInfo/blob/main/sampleResult.png" width=700>
 
